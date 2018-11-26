@@ -23,7 +23,7 @@ github_username:  walterg2
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-strata
+theme: minima
 plugins:
   - jekyll-feed
 
