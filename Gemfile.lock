@@ -177,6 +177,10 @@ GEM
     jekyll-theme-slate (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-strata (0.1.4)
+      jekyll (~> 3.5)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
     jekyll-theme-tactile (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -243,6 +247,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-theme-strata
   tzinfo-data
 
 BUNDLED WITH
