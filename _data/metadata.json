@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "JavaScript and Sarcasm",
+  "url": "https://javascriptandsarcasm.com/",
+  "description": "Ponderings and technical blog about JavaScript and related languages",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://javascriptandsarcasm.com/feed/feed.xml",
+    "id": "https://javascriptandsarcasm.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "George T. Walters II",
+    "email": "walterg2@gmail.com"
   }
 }
